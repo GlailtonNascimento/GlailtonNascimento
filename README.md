@@ -1,22 +1,21 @@
-- #  Glailton Nascimento
+## Glailton Nascimento
 
-| Informação        |                               |
-|-------------------|-------------------------------|
-| Nome              | Glailton Nascimento           |
-| Profissão atual   | Empilhador                    |
-| Sonho             | Tornar-se Programador Java    |
-| Família           | Pai da Geovanna, 4 anos       |
-| Contato           | [glailtonnascimento88@gmail.com](mailto:glailtonnascimento88@gmail.com) |
-| LinkedIn          | [linkedin.com/in/glailtonsantannadonascimento-b75413116/](https://www.linkedin.com/in/glailtonsantannadonascimento-b75413116/) |
+| Informação          | Detalhes                                                                 |
+|----------------------|--------------------------------------------------------------------------|
+| Nome                 | Glailton Nascimento                                                      |
+| Profissão Atual      | Empilhador (em transição para a área de Desenvolvimento)                  |
+| Sonho                | Tornar-se um Desenvolvedor Web (com foco em Java e outras tecnologias) |
+| Família              | Pai da Geovanna, 5 anos                                                  |
+| Contato              | [glailtonprogramador88@gmail.com](mailto:glailtonprogramador88@gmail.com) |
+| LinkedIn             | [https://www.linkedin.com/in/glailtonsantannadonascimento-b75413116/](https://www.linkedin.com/in/glailtonsantannadonascimento-b75413116/) |
 
 ## Sobre Mim
 
-Olá! Sou Glailton Nascimento, atualmente trabalhando como empilhador, mas com um grande sonho de me tornar um programador Java. Minha jornada inclui dedicar-me aos estudos de Data Science na Uninassau, enquanto aproveito ao máximo minha jornada como pai da Geovanna, de 4 anos. Estou determinado a realizar meu sonho de se tornar um programador Java, e estou disposto a dedicar tempo e esforço para alcançá-lo.
+Olá! Sou Glailton Nascimento. Atualmente, trabalho como empilhador, mas estou trilhando um caminho com grande entusiasmo para me tornar um Desenvolvedor Web.
 
-Sinta-se à vontade para entrar em contato comigo por e-mail ou conectar-se comigo no LinkedIn. Estou ansioso para conhecer e colaborar com pessoas interessadas em tecnologia e inovação!
+Minha jornada de aprendizado e desenvolvimento na área de tecnologia tem sido intensa e contínua. Dedico-me aos estudos de Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em HTML, CSS, JavaScript e, especialmente, Java.
 
+Sou pai orgulhoso da Geovanna, que agora tem 5 anos, e concilio minhas responsabilidades familiares com a busca incessante pelo meu sonho de construir uma carreira sólida como desenvolvedor. Estou determinado a investir meu tempo e esforço para alcançar esse objetivo e contribuir para projetos inovadores.
 
-<!---
-GlailtonNascimento/GlailtonNascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Sinta-se à vontade para entrar em contato por e-mail ou conectar-se comigo no LinkedIn através do novo link. Estou sempre aberto a novas oportunidades, aprendizados e colaborações no mundo da tecnologia!
 --->
